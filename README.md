@@ -6,3 +6,4 @@ self summary after attending ccks2018 (2018全国知识图谱与语义计算大�
 
 # 内容
 本项目包括了本大会的论文集，知识图谱发展报告2018，个人参会总结等
+If any question about the project or me ,see https://liuhuanyong.github.io/
